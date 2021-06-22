@@ -10,5 +10,11 @@ html {
 }
 
 :root{
-    
+    --azulMorado:#7400b8;
+    --azul:#5e60ce;
+    --tuequesa:#48bfe3;
+    --negro:#000000;
+    --blanco:#ffffff;
+    --fontPpal:'Nanum Gothic', sans-serif;;
+
 }
